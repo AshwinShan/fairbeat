@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fairbeat/static/css/main.1ef1c624.chunk.css",
-    "main.js": "/fairbeat/static/js/main.16b0a01d.chunk.js",
-    "main.js.map": "/fairbeat/static/js/main.16b0a01d.chunk.js.map",
+    "main.css": "/fairbeat/static/css/main.b94cd1d3.chunk.css",
+    "main.js": "/fairbeat/static/js/main.26ce1f39.chunk.js",
+    "main.js.map": "/fairbeat/static/js/main.26ce1f39.chunk.js.map",
     "runtime-main.js": "/fairbeat/static/js/runtime-main.06920252.js",
     "runtime-main.js.map": "/fairbeat/static/js/runtime-main.06920252.js.map",
     "static/css/2.953edc3d.chunk.css": "/fairbeat/static/css/2.953edc3d.chunk.css",
     "static/js/2.bb1407f6.chunk.js": "/fairbeat/static/js/2.bb1407f6.chunk.js",
     "static/js/2.bb1407f6.chunk.js.map": "/fairbeat/static/js/2.bb1407f6.chunk.js.map",
     "index.html": "/fairbeat/index.html",
-    "precache-manifest.f1835f97128817127552675754a25ea8.js": "/fairbeat/precache-manifest.f1835f97128817127552675754a25ea8.js",
+    "precache-manifest.09d4ae61141596f43e43c3221f823f0c.js": "/fairbeat/precache-manifest.09d4ae61141596f43e43c3221f823f0c.js",
     "service-worker.js": "/fairbeat/service-worker.js",
     "static/css/2.953edc3d.chunk.css.map": "/fairbeat/static/css/2.953edc3d.chunk.css.map",
-    "static/css/main.1ef1c624.chunk.css.map": "/fairbeat/static/css/main.1ef1c624.chunk.css.map",
+    "static/css/main.b94cd1d3.chunk.css.map": "/fairbeat/static/css/main.b94cd1d3.chunk.css.map",
     "static/media/font-awesome.min.css": "/fairbeat/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/picture.png": "/fairbeat/static/media/picture.b4a0edd0.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.06920252.js",
     "static/css/2.953edc3d.chunk.css",
     "static/js/2.bb1407f6.chunk.js",
-    "static/css/main.1ef1c624.chunk.css",
-    "static/js/main.16b0a01d.chunk.js"
+    "static/css/main.b94cd1d3.chunk.css",
+    "static/js/main.26ce1f39.chunk.js"
   ]
 }

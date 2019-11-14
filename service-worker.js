@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fairbeat/precache-manifest.f1835f97128817127552675754a25ea8.js"
+  "/fairbeat/precache-manifest.09d4ae61141596f43e43c3221f823f0c.js"
 );
 
 self.addEventListener('message', (event) => {
