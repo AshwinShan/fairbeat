@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd440945c1bc3f428dcff17511eb9785",
+    "revision": "8ec5d76a79df094862beff8ba7d2b8db",
     "url": "/fairbeat/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fairbeat/static/css/2.953edc3d.chunk.css"
   },
   {
-    "revision": "5634417eeb50f4f37a77",
-    "url": "/fairbeat/static/css/main.46cc7d4c.chunk.css"
+    "revision": "7d0d1834dc0c9bac03a5",
+    "url": "/fairbeat/static/css/main.404774f6.chunk.css"
   },
   {
     "revision": "d87a557cbb943a560d8b",
     "url": "/fairbeat/static/js/2.bb1407f6.chunk.js"
   },
   {
-    "revision": "5634417eeb50f4f37a77",
+    "revision": "7d0d1834dc0c9bac03a5",
     "url": "/fairbeat/static/js/main.ac450f47.chunk.js"
   },
   {
